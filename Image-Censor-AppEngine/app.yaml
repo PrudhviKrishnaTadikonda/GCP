@@ -1,0 +1,6 @@
+runtime: go111
+env_variables:
+  UPLOADABLE_BUCKET: "my_uploadable_bucket"
+  SERVICE_ACCOUNT: "service-account-ic@image-censor.iam.gserviceaccount.com"
+  GOOGLE_CLOUD_PROJECT: "Image-Censor"
+  PORT: 8080
